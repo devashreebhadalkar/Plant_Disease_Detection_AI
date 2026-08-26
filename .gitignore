@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+.vscode/
+plant_disease_model.keras
+Dataset/
