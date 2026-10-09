@@ -1,6 +1,7 @@
 # Plant Disease Detection Using AI
 
-🌿 **Live Website:** [Click here to open PlantCare](PASTE_YOUR_LIVE_WEBSITE_URL_HERE)
+🌿 **Live Website:** [Open Plant Disease Detection](PASTE_YOUR_WORKING_STREAMLIT_URL_HERE)
+
 
 This project detects and classifies plant leaf diseases using image processing and a trained deep learning model.
 
