@@ -1,6 +1,10 @@
 # Plant Disease Detection Using AI
 
-🌿 **Live Website:** [Open Plant Disease Detection](PASTE_YOUR_WORKING_STREAMLIT_URL_HERE)
+🌿 **Live Website:** ## 🌿 Live Website
+
+[PlantCare | Plant Disease Detection · Streamlit](https://plantcare-disease-detection.streamlit.app/) 
+
+
 
 
 This project detects and classifies plant leaf diseases using image processing and a trained deep learning model.
