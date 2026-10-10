@@ -17,3 +17,14 @@ This project detects and classifies plant leaf diseases using image processing a
 * Explore project results and evaluation.
 
 **Note:** Predictions may be incorrect. Model performance is limited by the training dataset and evaluation results.
+
+## Dataset
+
+This project uses the PlantDoc dataset for plant disease image classification.
+
+- **Dataset source:** [PlantDoc Dataset on GitHub](https://github.com/pratikkayal/PlantDoc-Dataset)
+- **Training images used:** 2,316
+- **Test images used:** 236
+- **Number of classes:** 27
+
+The dataset is used to train and evaluate the plant disease classification model. The dataset source and the project's processed data may differ, so these counts refer to the data used in this project.
